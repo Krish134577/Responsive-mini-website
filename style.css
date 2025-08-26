@@ -376,14 +376,14 @@ a{
     } 
 
     #text-1{
-    font-size: 2rem;
+    font-size: 1.6rem;
     margin-bottom: -20px;
     }
 #text-2{
-    font-size: 6rem; 
+    font-size: 5rem; 
 }
 #text-3{
-    font-size: 17px;   
+    font-size: 15px;   
 }
 
 #btn-secondary{
@@ -552,4 +552,5 @@ a{
     position: relative;
     right: -58%;  
 }
+
 }
